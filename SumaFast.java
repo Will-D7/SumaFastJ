@@ -17,7 +17,7 @@ public class SumaFast{
 		operation1 = suma(var1,var2);
 		
 		System.out.println("Resultado de la suma es:  "+operation1);
-		System.out.println("Que tengas buen día mi rey, hechale ganas.");
+		System.out.println("Que tengas buen día mi rey, hechale ganas, aunque igual te irá mal xD");
 	}
 	public static int suma(int a, int b){
 		return a+b;
